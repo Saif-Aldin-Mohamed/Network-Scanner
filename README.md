@@ -34,5 +34,3 @@ Example Output:
 [+] Open port 22 on 192.168.1.5
 [+] Open port 80 on 192.168.1.5
 [+] Open port 443 on 192.168.1.8
-# Network-Scanner
-# Network-Scanner
