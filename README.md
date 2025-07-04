@@ -20,7 +20,7 @@ A simple Python script that performs two main tasks:
 ### ▶️ Run the script
 
 ```bash
-python3 ping_port_scan.py
+python3 Network Scanner.py
 
 
 Make sure to edit the network range in the script:
